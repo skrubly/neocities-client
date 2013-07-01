@@ -1,4 +1,12 @@
-neocities-client
-================
+NeoCities Client for Python
+===========================
 
-Simple python client for neocities.org websites
+
+This is a simple python client to easily automate using a neocities website. See the example script for some usage
+
+Needs: 
+*   requests
+*   beautifulsoup4
+
+
+
